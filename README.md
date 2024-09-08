@@ -28,7 +28,7 @@ The Qt Reading List Manager is a simple desktop application built using the Qt f
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/reading-list-manager.git
-   cd reading-list-manager
+   git clone https://github.com/yourusername/qt-reading-list-manager.git
+   cd qt-reading-list-manager
 2. **Open the project in Qt Creator**
 3. **Build and run the project**
